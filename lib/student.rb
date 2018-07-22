@@ -1,12 +1,12 @@
-class Student 
+class Student
 
-  attr_accessor :name 
+  attr_accessor :name
 
   def initialize(name)
-    @name = name 
+    @name = name
   end
 
-  def hello 
+  def hello
     "Hey there! I'm so excited to learn stuff."
   end
 
