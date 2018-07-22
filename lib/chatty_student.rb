@@ -2,8 +2,8 @@ require_relative "./student.rb"
 
 class ChattyStudent < Student
 
-  def initialize(name)
-    @name = name
+  def initialize
+    
   end
 
   def hello
